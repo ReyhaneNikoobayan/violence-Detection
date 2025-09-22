@@ -22,7 +22,7 @@ This repository is source code for:
 
 <img width="720" height="276" alt="image" src="https://github.com/user-attachments/assets/07f7a36f-24cb-4945-9863-daf76c5aaa85" />
 
-## Social Robot
+## Our Social Robot Taban
 
 <img width="516" height="197" alt="image" src="https://github.com/user-attachments/assets/14d027b3-fe9c-4829-9841-e6e7b4323fa4" />
 
