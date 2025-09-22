@@ -26,3 +26,8 @@ This repository is source code for:
 
 <img width="516" height="197" alt="image" src="https://github.com/user-attachments/assets/14d027b3-fe9c-4829-9841-e6e7b4323fa4" />
 
+## accuracy 
+
+<img width="1696" height="678" alt="image" src="https://github.com/user-attachments/assets/3b29b02c-c471-4913-a863-3279948563cf" />
+
+
